@@ -1,3 +1,9 @@
+# Note: This repo is out-dated. I now work on [LibSubmarine](https://github.com/lorenzb/libsubmarine), a smart contract library making it easy to use Submarine Sends in your contract.
+
+----
+----
+----
+
 # A PoC for Submarine Sends
 
 This repo contains a proof-of-concept implementation of Submarine Sends for
